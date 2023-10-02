@@ -4,8 +4,6 @@
 
 🌱 I’m currently learning C
 
-💞️ I’m looking to collaborate on Taijuu projects.
+💞️ I’m looking to collaborate on Taijuu and Gilen projects.
 
 📫 How to reach me:
-
-Don't tell me about games.
